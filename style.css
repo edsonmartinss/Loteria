@@ -27,9 +27,12 @@ button{
     list-style: none;
     padding: 0px;
     border: 0px;
+    display: flex;
+    flex-direction: row;
 }
-#numSorte li{
-    display: inline;
+.result{
+    margin-top: 20px;
+    margin-right: 20px;
 }
 p{
     font-size: 2em;

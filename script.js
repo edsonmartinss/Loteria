@@ -39,10 +39,11 @@ function verificarAcertos(){
     }
 }
 function printNumSort(){
-    document.getElementById("numSort").innerHTML = ""
-    for(var i=0; i<numSort.length; i++){
+    document.getElementById("numSort").innerHTML = "";
+    for(var i = 0; i < numSort.length; i++){
         let li = document.createElement("li");
         li.append(numSort[i]);
+        li.classList.add("result");
         document.getElementById("numSort").append(li);
     }
 }
