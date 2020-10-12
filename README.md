@@ -59,12 +59,12 @@ function addToList(num, pos){
 > Simplesmente baixe o código e abra o arquivo **_index.html_** no seu navegador.
 
 ## Exemplo de tabela
-| Exemplo   | Valor do exemplo | Quantidade
-| --------- | ---------------- | ----------
-| Exemplo 1 | R$ 10            | 5
-| Exemplo 2 | R$ 8             | 4
-| Exemplo 3 | R$ 7             | 34
-| Exemplo 4 | R$ 8             | 23
+|Exemplo  |Valor do exemplo | Quantidade|
+|---------|-----------------|-----------|
+|Exemplo 1|R$ 10            | 5         |
+|Exemplo 2|R$ 8             | 4         |
+|Exemplo 3|R$ 7             | 34        |
+|Exemplo 4|R$ 8             | 23        |
 
 ## Imagens da tela
 Tela 1: Tela de abertura.
