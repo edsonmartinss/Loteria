@@ -60,7 +60,7 @@ function addToList(num, pos){
 
 ## Exemplo de tabela
 |Exemplo   | Valor do exemplo | Quantidade|
-|--------- | ---------------- | ----------|
+|--------- | ---------------- | --------- |
 |Exemplo 1 | R$ 10            | 5         |
 |Exemplo 2 | R$ 8             | 4         |
 |Exemplo 3 | R$ 7             | 34        |
